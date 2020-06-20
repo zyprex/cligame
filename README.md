@@ -1,1 +1,3 @@
 # cligame
+
+CLI game
