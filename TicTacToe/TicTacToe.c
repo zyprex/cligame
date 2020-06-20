@@ -93,7 +93,7 @@ void restart(State_t* s)
  * @brief   print game board
  * @param   s - struct of game state
  * @return  none
- *******************************************************************//* cursor */
+ *******************************************************************/
 void show(const State_t* s)
 {
     // show help
